@@ -1,5 +1,6 @@
-## <h1 align="center">Olá, Eu sou o Jameson!</h1>
-<h5>Sou estudante de ADS e estou sempre em busca de novos conhecimentos...</h5>
+ <h1 align="center">Hello, World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+ <h2>Eu sou o Jameson!</h2>
+ <h5>Sou estudante de ADS e estou sempre em busca de novos conhecimentos...</h5>
 
  <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
@@ -21,6 +22,7 @@
   <img align="center" alt="Jameson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Jameson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jameson-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Jameson-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
  
  
