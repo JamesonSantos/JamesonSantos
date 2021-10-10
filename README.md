@@ -41,5 +41,9 @@
  
   ![Snake animation](https://github.com/JamesonSantos/JamesonSantos/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
+  <p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/JamesonSantos/count.svg" alt="contador de visitas">
+  </p>
   
   
