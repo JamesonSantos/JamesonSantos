@@ -1,5 +1,5 @@
 ## <h1 align="center">Olá, Eu sou o Jameson!</h1>
-Sou estudante de ADS e estou sempre em busca de novos conhecimentos...
+<h5>Sou estudante de ADS e estou sempre em busca de novos conhecimentos...</h5>
 
  <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
