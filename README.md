@@ -8,10 +8,10 @@
 </summary>
 <br />
 
-<section align='center'>
+ <section align="center">
     <a href="https://lumaypublicidade.com/#contato">
-      <img height="150vw" alt="" src="https://github-readme-stats.vercel.app/api?username=JamesonSantos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-      <img height="150vw" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesonSantos&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
+      <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api?username=JamesonSantos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+      <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesonSantos&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
     </a>
   </section>
 
